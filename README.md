@@ -10,39 +10,7 @@
   
   
 <!-- Badges -->
-<p>
-  <a href="https://github.com/tarunbylapudi/easy-returns/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/tarunbylapudi/easy-returns" alt="contributors" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/github/last-commit/tarunbylapudi/easy-returns" alt="last update" />
-  </a>
-  <a href="https://github.com/tarunbylapudi/easy-returns/network/members">
-    <img src="https://img.shields.io/github/forks/tarunbylapudi/easy-returns" alt="forks" />
-  </a>
-  <a href="https://github.com/tarunbylapudi/easy-returns/stargazers">
-    <img src="https://img.shields.io/github/stars/tarunbylapudi/easy-returns" alt="stars" />
-  </a>
-  <a href="https://github.com/tarunbylapudi/easy-returns/issues/">
-    <img src="https://img.shields.io/github/issues/tarunbylapudi/easy-returns" alt="open issues" />
-  </a>
-  <a href="https://github.com/tarunbylapudi/easy-returns/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/tarunbylapudi/easy-returns.svg" alt="license" />
-  </a>
-</p>
-   
-<h4>
-    <a href="https://github.com/tarunbylapudi/easy-returns/">View Demo</a>
-  <span> · </span>
-    <a href="https://github.com/tarunbylapudi/easy-returns">Documentation</a>
-  <span> · </span>
-    <a href="https://github.com/tarunbylapudi/easy-returns/issues/">Report Bug</a>
-  <span> · </span>
-    <a href="https://github.com/tarunbylapudi/easy-returns/issues/">Request Feature</a>
-  </h4>
-</div>
 
-<br />
 
 <!-- Table of Contents -->
 # :notebook_with_decorative_cover: Table of Contents
@@ -198,13 +166,6 @@ Start the server
 ```
 
 
-<!-- Contributing -->
-## :wave: Contributing
-
-<a href="https://github.com/tarunbylapudi/easy-returns/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=tarunbylapudi/easy-returns" />
-</a>
-
 
 
 
@@ -214,13 +175,6 @@ Start the server
 
 Distributed under the no License. See LICENSE.txt for more information.
 
-
-<!-- Contact -->
-## :handshake: Contact
-
-Your Name - [@TarunBylapudi](https://twitter.com/TarunBylapudi) - byla.work@gmail.com
-
-Project Link: [https://github.com/tarunbylapudi/easy-returns](https://github.com/tarunbylapudi/easy-returns)
 
 
 <!-- Acknowledgments -->
